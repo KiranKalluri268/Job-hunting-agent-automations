@@ -20,7 +20,7 @@ Portable, scheduler-agnostic prompt specs for recurring job-search automation. E
 
 ## Companion repo
 
-This repo is for **scheduled, unattended** recurring checks — prompts an agent runs on its own on a timer, with no one watching. It's a companion to a separate job-hunting *skills* repo, which holds on-demand skills invoked mid-conversation (e.g. tailoring a resume to a specific job description). The two are kept separate because they're different kinds of artifact: one is a background job spec, the other is an interactive tool.
+This repo is for **scheduled, unattended** recurring checks — prompts an agent runs on its own on a timer, with no one watching. It's a companion to [Job-hunting-agent-skills](https://github.com/KiranKalluri268/Job-hunting-agent-skills), which holds on-demand skills invoked mid-conversation (e.g. tailoring a resume to a specific job description). The two are kept separate because they're different kinds of artifact: one is a background job spec, the other is an interactive tool.
 
 ## History
 
